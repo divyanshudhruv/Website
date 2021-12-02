@@ -1,12 +1,17 @@
-# Website 
+# 🎈 Website 🎈
 📑 **Description**
 * A Modern Website Made With `HTML` , `CSS` And `JavaScript`
 ----------------------
 🤝 **Collaboration**
-* Need Someone To **Collaborate** With Me.
+* Need Someone To **Collaborate** With Me
+* When Updating The Version To **`1.0`**
 ---------------------
 🥚 **Easter Eggs**
 * There Are Bunch Of `Easter Eggs` Hidden In The Website!
+---------------------
+🏷️ **Version**
+* > v 1.0 - Published
+* > v 1.1 - Soon
 ---------------------
 # 🖼️ **Some Pics Of The Website**
 

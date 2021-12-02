@@ -10,8 +10,8 @@
 * There Are Bunch Of `Easter Eggs` Hidden In The Website!
 ---------------------
 🏷️ **Version**
-* > v 1.0 - Published
-* > v 1.1 - Soon
+* > v 0.1 - Published
+* > v 0.2 - Soon
 ---------------------
 # 🖼️ **Some Pics Of The Website**
 
